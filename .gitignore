@@ -1,0 +1,31 @@
+# Java Compiled class files
+*.class
+
+# Executables
+*.exe
+*.dll
+*.so
+
+# IDE Files
+.idea/
+.vscode/
+*.iml
+*.settings/
+*.classpath
+*.project
+
+# Output directory
+out/
+bin/
+
+# Data and Persistence
+# data/hms.dat  # Uncomment this if you don't want to upload your saved data
+# *.sqlite
+
+# OS generated files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Large Binary Files
+# HMS.jar # Usually better as a GitHub Release, but keep it commented if you want to upload it.
